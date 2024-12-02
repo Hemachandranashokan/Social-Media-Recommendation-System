@@ -11,7 +11,7 @@ This project is a social media recommendation system that provides personalized 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+  [ git clone https://github.com/your-username/your-repo-name.git](https://github.com/Hemachandranashokan/Social-Media-Recommendation-System.git)
    ```
 2. Navigate to the project folder:
   ```bash
